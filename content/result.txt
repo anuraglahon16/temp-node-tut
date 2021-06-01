@@ -1,0 +1,1 @@
+here is the result : Hello this is the first text file,Second text file Hello, {flag:'a'}here is the result : Hello this is the first text file,Second text file Hellohere is the result : Hello this is the first text file,Second text file Hello
